@@ -1,0 +1,25 @@
+{
+  "name": "graphql-express-server",
+  "version": "1.0.0",
+  "description": "GraphQL server with Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krlozadan/graphql-express-server.git"
+  },
+  "keywords": [
+    "graphql",
+    "server",
+    "express",
+    "apollo"
+  ],
+  "author": "Carlos Adan Cortes De la Fuente",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krlozadan/graphql-express-server/issues"
+  },
+  "homepage": "https://github.com/krlozadan/graphql-express-server#readme"
+}
